@@ -1,2 +1,5 @@
 *.dat
 results/
+results/plots/
+*.csv
+!final.csv
