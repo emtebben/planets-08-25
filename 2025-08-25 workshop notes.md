@@ -10,22 +10,25 @@
 
 ---
 ## Topics to cover
+
 **Navigating the Shell** (45m)
-•	Introducing the Shell
-•	Navigating Files and Directories
+- Introducing the Shell
+- Navigating Files and Directories
+
 **Version Control with Git: Command Line** (70m)
-•	Automated Version Control
-•	Setting Up Git
-•	Creating a Repository
-•	Tracking Changes
-•	Exploring History
-•	Ignoring Things
+- Automated Version Control
+- Setting Up Git
+- Creating a Repository
+- Tracking Changes
+- Exploring History
+- Ignoring Things
+
 **Version Control with Git: Remotes** (65)
-•	Remotes in GitHub
-•	Collaborating
-•	Conflicts
-•	Open Science
-•	Citation
+- Remotes in GitHub
+- Collaborating
+- Conflicts
+- Open Science
+- Citation
 
 ## Follow-up Links
 
